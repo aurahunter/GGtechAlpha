@@ -1,4 +1,4 @@
-# GG Tech
+# Nano Tech
 
 Site de prestação de serviços separado por área de atuação, com consultores, catálogo e condições de pagamento.
 
